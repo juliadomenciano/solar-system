@@ -1,5 +1,5 @@
 import React from 'react';
-/* import css from './App.css'; */
+import './App.css';
 import Header from './components/Header';
 import SolarSystem from './components/SolarSystem';
 import Missions from './components/Missions';
